@@ -15,13 +15,6 @@ namespace AppConsoleLivres
             Roman roman2 = new Roman("Les Rois du Nürburgring", "Klaus Schmidt", 400, "Histoire du Nürburgring");
             Roman roman3 = new Roman("Le Mans : Une légende", "Antoine Dupuis", 450, "Chronique de Le Mans");
 
-            revue1.AfficherDetails();
-            revue2.AfficherDetails();
-            revue3.AfficherDetails();
-
-            roman1.AfficherDetails();
-            roman2.AfficherDetails();
-            roman3.AfficherDetails();
 
             List<Livre> listeLivres = new List<Livre> { revue1, revue2, revue3, roman1, roman2, roman3 };
 

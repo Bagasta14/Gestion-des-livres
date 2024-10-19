@@ -1,0 +1,14 @@
+C:\Users\amugu\source\repos\AppConsoleLivres\AppConsoleLivres\bin\Debug\net8.0\AppConsoleLivres.exe
+C:\Users\amugu\source\repos\AppConsoleLivres\AppConsoleLivres\bin\Debug\net8.0\AppConsoleLivres.deps.json
+C:\Users\amugu\source\repos\AppConsoleLivres\AppConsoleLivres\bin\Debug\net8.0\AppConsoleLivres.runtimeconfig.json
+C:\Users\amugu\source\repos\AppConsoleLivres\AppConsoleLivres\bin\Debug\net8.0\AppConsoleLivres.dll
+C:\Users\amugu\source\repos\AppConsoleLivres\AppConsoleLivres\bin\Debug\net8.0\AppConsoleLivres.pdb
+C:\Users\amugu\source\repos\AppConsoleLivres\AppConsoleLivres\obj\Debug\net8.0\AppConsoleLivres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amugu\source\repos\AppConsoleLivres\AppConsoleLivres\obj\Debug\net8.0\AppConsoleLivres.AssemblyInfoInputs.cache
+C:\Users\amugu\source\repos\AppConsoleLivres\AppConsoleLivres\obj\Debug\net8.0\AppConsoleLivres.AssemblyInfo.cs
+C:\Users\amugu\source\repos\AppConsoleLivres\AppConsoleLivres\obj\Debug\net8.0\AppConsoleLivres.csproj.CoreCompileInputs.cache
+C:\Users\amugu\source\repos\AppConsoleLivres\AppConsoleLivres\obj\Debug\net8.0\AppConsoleLivres.dll
+C:\Users\amugu\source\repos\AppConsoleLivres\AppConsoleLivres\obj\Debug\net8.0\refint\AppConsoleLivres.dll
+C:\Users\amugu\source\repos\AppConsoleLivres\AppConsoleLivres\obj\Debug\net8.0\AppConsoleLivres.pdb
+C:\Users\amugu\source\repos\AppConsoleLivres\AppConsoleLivres\obj\Debug\net8.0\AppConsoleLivres.genruntimeconfig.cache
+C:\Users\amugu\source\repos\AppConsoleLivres\AppConsoleLivres\obj\Debug\net8.0\ref\AppConsoleLivres.dll
