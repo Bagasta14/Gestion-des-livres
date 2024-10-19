@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amugu\\source\\repos\\AppConsoleLivres\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91B9E73F-D9BC-4484-94D6-870CFCDC5F58}|AppConsoleLivres\\AppConsoleLivres.csproj|c:\\users\\amugu\\source\\repos\\appconsolelivres\\appconsolelivres\\revue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B9E73F-D9BC-4484-94D6-870CFCDC5F58}|AppConsoleLivres\\AppConsoleLivres.csproj|solutionrelative:appconsolelivres\\revue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B9E73F-D9BC-4484-94D6-870CFCDC5F58}|AppConsoleLivres\\AppConsoleLivres.csproj|c:\\users\\amugu\\source\\repos\\appconsolelivres\\appconsolelivres\\roman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B9E73F-D9BC-4484-94D6-870CFCDC5F58}|AppConsoleLivres\\AppConsoleLivres.csproj|solutionrelative:appconsolelivres\\roman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B9E73F-D9BC-4484-94D6-870CFCDC5F58}|AppConsoleLivres\\AppConsoleLivres.csproj|c:\\users\\amugu\\source\\repos\\appconsolelivres\\appconsolelivres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B9E73F-D9BC-4484-94D6-870CFCDC5F58}|AppConsoleLivres\\AppConsoleLivres.csproj|solutionrelative:appconsolelivres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91B9E73F-D9BC-4484-94D6-870CFCDC5F58}|AppConsoleLivres\\AppConsoleLivres.csproj|c:\\users\\amugu\\source\\repos\\appconsolelivres\\appconsolelivres\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B9E73F-D9BC-4484-94D6-870CFCDC5F58}|AppConsoleLivres\\AppConsoleLivres.csproj|solutionrelative:appconsolelivres\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Roman.cs",
+              "DocumentMoniker": "C:\\Users\\amugu\\source\\repos\\AppConsoleLivres\\AppConsoleLivres\\Roman.cs",
+              "RelativeDocumentMoniker": "AppConsoleLivres\\Roman.cs",
+              "ToolTip": "C:\\Users\\amugu\\source\\repos\\AppConsoleLivres\\AppConsoleLivres\\Roman.cs",
+              "RelativeToolTip": "AppConsoleLivres\\Roman.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:54:29.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Revue.cs",
+              "DocumentMoniker": "C:\\Users\\amugu\\source\\repos\\AppConsoleLivres\\AppConsoleLivres\\Revue.cs",
+              "RelativeDocumentMoniker": "AppConsoleLivres\\Revue.cs",
+              "ToolTip": "C:\\Users\\amugu\\source\\repos\\AppConsoleLivres\\AppConsoleLivres\\Revue.cs",
+              "RelativeToolTip": "AppConsoleLivres\\Revue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:51:33.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livre.cs",
+              "DocumentMoniker": "C:\\Users\\amugu\\source\\repos\\AppConsoleLivres\\AppConsoleLivres\\Livre.cs",
+              "RelativeDocumentMoniker": "AppConsoleLivres\\Livre.cs",
+              "ToolTip": "C:\\Users\\amugu\\source\\repos\\AppConsoleLivres\\AppConsoleLivres\\Livre.cs",
+              "RelativeToolTip": "AppConsoleLivres\\Livre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:45:55.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amugu\\source\\repos\\AppConsoleLivres\\AppConsoleLivres\\Program.cs",
+              "RelativeDocumentMoniker": "AppConsoleLivres\\Program.cs",
+              "ToolTip": "C:\\Users\\amugu\\source\\repos\\AppConsoleLivres\\AppConsoleLivres\\Program.cs",
+              "RelativeToolTip": "AppConsoleLivres\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:26:47.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
